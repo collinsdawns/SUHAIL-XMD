@@ -7,10 +7,10 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 1712,
-      "level": 5,
-      "ttms": 8,
-      "need": 5344
+      "exp": 8905,
+      "level": 7,
+      "ttms": 16,
+      "need": 21376
     }
   },
   "254707589396@s.whatsapp.net": {
@@ -21,9 +21,79 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 11,
+      "exp": 31,
       "level": 1,
-      "ttms": 3,
+      "ttms": 7,
+      "need": 167
+    }
+  },
+  "254746975939@s.whatsapp.net": {
+    "id": "254746975939@s.whatsapp.net",
+    "name": "influencer",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 1,
+      "level": 2,
+      "ttms": 8,
+      "need": 668
+    }
+  },
+  "254705028088@s.whatsapp.net": {
+    "id": "254705028088@s.whatsapp.net",
+    "name": "Bankslave",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 228,
+      "level": 1,
+      "ttms": 6,
+      "need": 167
+    }
+  },
+  "254115300196@s.whatsapp.net": {
+    "id": "254115300196@s.whatsapp.net",
+    "name": "RICHER 💸🫰",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 47,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "254104212648@s.whatsapp.net": {
+    "id": "254104212648@s.whatsapp.net",
+    "name": "Andy.M",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 97,
+      "level": 1,
+      "ttms": 7,
+      "need": 167
+    }
+  },
+  "254795817446@s.whatsapp.net": {
+    "id": "254795817446@s.whatsapp.net",
+    "name": "Jus",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 3,
+      "level": 1,
+      "ttms": 2,
       "need": 167
     }
   }
