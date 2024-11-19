@@ -1,0 +1,15 @@
+{
+  "254756580206@s.whatsapp.net": {
+    "id": "254756580206@s.whatsapp.net",
+    "data": {
+      "presence": "",
+      "read_status": "true",
+      "save_status": "false",
+      "readmessage": "false",
+      "readcmds": "true",
+      "send_status": "true",
+      "announce": {},
+      "contacts": {}
+    }
+  }
+}
