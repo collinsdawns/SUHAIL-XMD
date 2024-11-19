@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/GlobalTechInfo/SUHAIL-XMD
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/bb374d9e92afbde2bbbfa.png" || "https://telegra.ph/file/bb374d9e92afbde2bbbfa.png" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "© GlobalTechInfo" 
+global.caption = process.env.CAPTION || global.caption || "© SirensTechInfo" 
 
 
 global.devs = "" // Developer Contact
