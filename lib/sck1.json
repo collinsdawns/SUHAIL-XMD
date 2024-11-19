@@ -7,10 +7,10 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 8905,
-      "level": 7,
-      "ttms": 16,
-      "need": 21376
+      "exp": 9145,
+      "level": 8,
+      "ttms": 25,
+      "need": 68030
     }
   },
   "254707589396@s.whatsapp.net": {
@@ -21,9 +21,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 31,
+      "exp": 51,
       "level": 1,
-      "ttms": 7,
+      "ttms": 11,
       "need": 167
     }
   },
@@ -35,9 +35,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 1,
+      "exp": 180,
       "level": 2,
-      "ttms": 8,
+      "ttms": 12,
       "need": 668
     }
   },
@@ -63,9 +63,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 47,
+      "exp": 164,
       "level": 1,
-      "ttms": 2,
+      "ttms": 4,
       "need": 167
     }
   },
@@ -77,9 +77,9 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 97,
+      "exp": 81,
       "level": 1,
-      "ttms": 7,
+      "ttms": 5,
       "need": 167
     }
   },
@@ -92,6 +92,34 @@
     "warn": {},
     "rank": {
       "exp": 3,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "254106300572@s.whatsapp.net": {
+    "id": "254106300572@s.whatsapp.net",
+    "name": "CJ",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 250,
+      "level": 1,
+      "ttms": 2,
+      "need": 167
+    }
+  },
+  "254787727340@s.whatsapp.net": {
+    "id": "254787727340@s.whatsapp.net",
+    "name": "Meshark",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 18,
       "level": 1,
       "ttms": 2,
       "need": 167
