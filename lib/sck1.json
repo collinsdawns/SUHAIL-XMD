@@ -7,10 +7,24 @@
     "ban": "false",
     "warn": {},
     "rank": {
-      "exp": 558,
-      "level": 3,
-      "ttms": 4,
-      "need": 1336
+      "exp": 1712,
+      "level": 5,
+      "ttms": 8,
+      "need": 5344
+    }
+  },
+  "254707589396@s.whatsapp.net": {
+    "id": "254707589396@s.whatsapp.net",
+    "name": "</>😜",
+    "times": 0,
+    "permit": "false",
+    "ban": "false",
+    "warn": {},
+    "rank": {
+      "exp": 11,
+      "level": 1,
+      "ttms": 3,
+      "need": 167
     }
   }
 }
